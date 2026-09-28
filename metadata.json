@@ -1,0 +1,8 @@
+{
+  "name": "JB & BEST LOGISTICS Mobile Companion",
+  "description": "Official mobile companion app for JB & BEST LOGISTICS with multi-carrier tracking, booking, mailbox center, rider dispatch, staff terminal, and admin operations.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
